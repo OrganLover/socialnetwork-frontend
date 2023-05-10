@@ -1,0 +1,13 @@
+.friendsPage {
+  .friendsBlock {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    .friendBlock {
+      display: flex;
+      justify-content: space-between;
+      background-color: aquamarine;
+      margin-block-end: 25px;
+    }
+  }
+}

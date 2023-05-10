@@ -1,0 +1,24 @@
+.profilePosts,
+.fullPostPage {
+  .profilePost {
+    margin-block: 20px;
+    cursor: pointer;
+
+    .postBlock {
+      margin-block: 10px;
+    }
+
+    .postAvatarBlock {
+      .postAvatar {
+        width: 50px;
+        border-radius: 100%;
+      }
+    }
+
+    .postButtons {
+      button {
+        margin-inline: 3px;
+      }
+    }
+  }
+}

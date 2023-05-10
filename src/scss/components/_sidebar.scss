@@ -1,0 +1,16 @@
+.sidebar {
+  grid-area: sidebar;
+  background-color: white;
+  border: 1px solid #999;
+  border-radius: 5px;
+  height: 100%;
+  a {
+    text-decoration: none;
+    color: black;
+  }
+
+  li {
+    list-style: none;
+    margin-top: 20px;
+  }
+}

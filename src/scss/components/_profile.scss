@@ -1,0 +1,19 @@
+.profilePage {
+  .userData {
+    display: flex;
+
+    .avatarBlock {
+      width: 200px;
+      height: 200px;
+
+      .avatarImg {
+        width: 100%;
+        border-radius: 100%;
+      }
+    }
+
+    .userInfo {
+      margin-left: 100px;
+    }
+  }
+}
